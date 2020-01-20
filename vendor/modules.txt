@@ -1,0 +1,204 @@
+# github.com/beorn7/perks v1.0.0
+github.com/beorn7/perks/quantile
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/dustin/go-coap v0.0.0-20170214053734-ddcc80675fa4
+github.com/dustin/go-coap
+# github.com/eclipse/paho.mqtt.golang v1.2.0
+github.com/eclipse/paho.mqtt.golang
+github.com/eclipse/paho.mqtt.golang/packets
+# github.com/fxamacker/cbor v1.3.2
+github.com/fxamacker/cbor
+# github.com/go-kit/kit v0.9.0
+github.com/go-kit/kit/endpoint
+github.com/go-kit/kit/log
+github.com/go-kit/kit/metrics
+github.com/go-kit/kit/metrics/internal/lv
+github.com/go-kit/kit/metrics/prometheus
+github.com/go-kit/kit/tracing/opentracing
+github.com/go-kit/kit/transport
+github.com/go-kit/kit/transport/grpc
+github.com/go-kit/kit/transport/http
+# github.com/go-logfmt/logfmt v0.4.0
+github.com/go-logfmt/logfmt
+# github.com/go-redis/redis v6.15.0+incompatible
+github.com/go-redis/redis
+github.com/go-redis/redis/internal
+github.com/go-redis/redis/internal/consistenthash
+github.com/go-redis/redis/internal/hashtag
+github.com/go-redis/redis/internal/pool
+github.com/go-redis/redis/internal/proto
+github.com/go-redis/redis/internal/singleflight
+github.com/go-redis/redis/internal/util
+# github.com/go-zoo/bone v1.3.0
+github.com/go-zoo/bone
+# github.com/gogo/protobuf v1.3.1
+github.com/gogo/protobuf/proto
+# github.com/golang/protobuf v1.3.2
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/empty
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/gopcua/opcua v0.1.6
+github.com/gopcua/opcua
+github.com/gopcua/opcua/debug
+github.com/gopcua/opcua/errors
+github.com/gopcua/opcua/id
+github.com/gopcua/opcua/ua
+github.com/gopcua/opcua/uacp
+github.com/gopcua/opcua/uapolicy
+github.com/gopcua/opcua/uasc
+# github.com/gorilla/websocket v1.4.1
+github.com/gorilla/websocket
+# github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515
+github.com/kr/logfmt
+# github.com/mainflux/mainflux v0.0.0-20200117115101-decfae9c9d5a
+github.com/mainflux/mainflux
+github.com/mainflux/mainflux/coap
+github.com/mainflux/mainflux/coap/api
+github.com/mainflux/mainflux/coap/nats
+github.com/mainflux/mainflux/errors
+github.com/mainflux/mainflux/logger
+github.com/mainflux/mainflux/lora
+github.com/mainflux/mainflux/lora/api
+github.com/mainflux/mainflux/lora/mqtt
+github.com/mainflux/mainflux/lora/nats
+github.com/mainflux/mainflux/lora/redis
+github.com/mainflux/mainflux/opcua
+github.com/mainflux/mainflux/opcua/api
+github.com/mainflux/mainflux/opcua/db
+github.com/mainflux/mainflux/opcua/gopcua
+github.com/mainflux/mainflux/opcua/nats
+github.com/mainflux/mainflux/opcua/redis
+github.com/mainflux/mainflux/things
+github.com/mainflux/mainflux/things/api/auth/grpc
+github.com/mainflux/mainflux/transformers
+github.com/mainflux/mainflux/transformers/senml
+github.com/mainflux/mainflux/ws
+github.com/mainflux/mainflux/ws/api
+github.com/mainflux/mainflux/ws/mocks
+github.com/mainflux/mainflux/ws/nats
+# github.com/mainflux/senml v1.0.0
+github.com/mainflux/senml
+# github.com/matttproud/golang_protobuf_extensions v1.0.1
+github.com/matttproud/golang_protobuf_extensions/pbutil
+# github.com/nats-io/go-nats v1.6.0
+github.com/nats-io/go-nats
+github.com/nats-io/go-nats/encoders/builtin
+github.com/nats-io/go-nats/util
+# github.com/nats-io/jwt v0.3.0
+github.com/nats-io/jwt
+# github.com/nats-io/nats.go v1.9.1
+github.com/nats-io/nats.go
+github.com/nats-io/nats.go/encoders/builtin
+github.com/nats-io/nats.go/util
+# github.com/nats-io/nkeys v0.1.0
+github.com/nats-io/nkeys
+# github.com/nats-io/nuid v1.0.1
+github.com/nats-io/nuid
+# github.com/opentracing/opentracing-go v1.1.0
+github.com/opentracing/opentracing-go
+github.com/opentracing/opentracing-go/ext
+github.com/opentracing/opentracing-go/log
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/prometheus/client_golang v0.9.3
+github.com/prometheus/client_golang/prometheus
+github.com/prometheus/client_golang/prometheus/internal
+github.com/prometheus/client_golang/prometheus/promhttp
+# github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
+github.com/prometheus/client_model/go
+# github.com/prometheus/common v0.4.0
+github.com/prometheus/common/expfmt
+github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg
+github.com/prometheus/common/model
+# github.com/prometheus/procfs v0.0.0-20190507164030-5867b95ac084
+github.com/prometheus/procfs
+github.com/prometheus/procfs/internal/fs
+# github.com/sony/gobreaker v0.0.0-20180905101324-b2a34562d02c
+github.com/sony/gobreaker
+# github.com/stretchr/testify v1.4.0
+github.com/stretchr/testify/assert
+# github.com/uber/jaeger-client-go v2.16.0+incompatible
+github.com/uber/jaeger-client-go
+github.com/uber/jaeger-client-go/config
+github.com/uber/jaeger-client-go/internal/baggage
+github.com/uber/jaeger-client-go/internal/baggage/remote
+github.com/uber/jaeger-client-go/internal/spanlog
+github.com/uber/jaeger-client-go/internal/throttler
+github.com/uber/jaeger-client-go/internal/throttler/remote
+github.com/uber/jaeger-client-go/log
+github.com/uber/jaeger-client-go/rpcmetrics
+github.com/uber/jaeger-client-go/thrift
+github.com/uber/jaeger-client-go/thrift-gen/agent
+github.com/uber/jaeger-client-go/thrift-gen/baggage
+github.com/uber/jaeger-client-go/thrift-gen/jaeger
+github.com/uber/jaeger-client-go/thrift-gen/sampling
+github.com/uber/jaeger-client-go/thrift-gen/zipkincore
+github.com/uber/jaeger-client-go/transport
+github.com/uber/jaeger-client-go/utils
+# github.com/uber/jaeger-lib v2.0.0+incompatible
+github.com/uber/jaeger-lib/metrics
+# golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20190522155817-f3200d17e092
+golang.org/x/net/context
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/socks
+golang.org/x/net/internal/timeseries
+golang.org/x/net/proxy
+golang.org/x/net/trace
+golang.org/x/net/websocket
+# golang.org/x/sys v0.0.0-20190602015325-4c4f7f33c9ed
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.0
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.24.0
+google.golang.org/grpc
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/base
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/binarylog/grpc_binarylog_v1
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/credentials/internal
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/balancerload
+google.golang.org/grpc/internal/binarylog
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/envconfig
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/internal/grpcsync
+google.golang.org/grpc/internal/syscall
+google.golang.org/grpc/internal/transport
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/resolver/dns
+google.golang.org/grpc/resolver/passthrough
+google.golang.org/grpc/serviceconfig
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+# gopkg.in/yaml.v2 v2.2.4
+gopkg.in/yaml.v2
